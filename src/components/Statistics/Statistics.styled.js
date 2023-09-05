@@ -28,7 +28,6 @@ export const StatList = styled.ul`
 export const StatItem = styled.li`
   display: grid;
   justify-items: center;
-  background-color: ${getRandomHexColor()};
 
   padding: 6px;
   :first-of-type {
